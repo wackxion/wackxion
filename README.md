@@ -1,6 +1,6 @@
 # **WACKXION** 😄
-###esta son mis redes [instagram Pages](https://www.instagram.com/braianalexzapater/) 
-                      [X Pages](https://x.com/wackxion_1)
+###esta son mis redes [instagram Pages](https://www.instagram.com/braianalexzapater/)
+###                   [X Pages](https://x.com/wackxion_1)
 
 <!--
 **wackxion/wackxion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
