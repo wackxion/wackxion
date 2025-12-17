@@ -10,5 +10,5 @@
 
 ```python
 nombre = braian 
-print ("hola Mundo de" + braian )
+print ("hola Mundo" )
 ```
