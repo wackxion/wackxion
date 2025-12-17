@@ -1,4 +1,5 @@
 # **WACKXION** 😄
+[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://x.com/wackxion_1)
 ## redes = [instagram](https://www.instagram.com/braianalexzapater/), [X](https://x.com/wackxion_1)
 ### en mi camino al aprendisaje de programacion.
 
