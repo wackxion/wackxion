@@ -4,9 +4,7 @@
 [![Static Badge](https://img.shields.io/badge/WACKXION-red?logo=youtube&cacheSeconds=https%3A%2F%2Fwww.youtube.com%2F%40wackxion4130)](https://www.youtube.com/@braianzapater847)
 [![Static Badge](https://img.shields.io/badge/wackxion-blue?logo=Facebook)](https://www.facebook.com/wackxion)
 [![Static Badge](https://img.shields.io/badge/wackxion-white?logo=Twitch)](https://www.twitch.tv/wackxion)
-
-## redes = [instagram](https://www.instagram.com/braianalexzapater/), [X](https://x.com/wackxion_1)
-### en mi camino al aprendisaje de programacion.
+### En mi camino al aprendisaje de programacion.
 
 | Rank | Languages |completo o incompleto|
 |-----:|-----------|---------------------|
