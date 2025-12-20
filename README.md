@@ -6,12 +6,12 @@
 [![Static Badge](https://img.shields.io/badge/wackxion-white?logo=Twitch)](https://www.twitch.tv/wackxion)
 ### En mi camino al aprendisaje de programacion.
 
-| Rank | Languages | Proceso |
-|-----:|-----------|---------------------|
-|     1| ![Static Badge](https://img.shields.io/badge/Python-black?logo=python)        | COMPLETO      |
-|     2| ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=JavaScript)| incompleto    |
-|     3| ![Static Badge](https://img.shields.io/badge/SQL-black?logo=SQL)              | incompleto    |
-|     4| ![Static Badge](https://img.shields.io/badge/HTML5%20-%20black?logo=HTML5)    | incompleto    |
+| Rank | Languages | Proceso |curso| Observaciones|
+|-----:|-----------|---------------------|------------------------|-------------------------|
+|     1| ![Static Badge](https://img.shields.io/badge/Python-black?logo=python)        | 5/461         |Python Certification| curso aparter sin sertificado completo|
+|     2| ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=JavaScript)| 42/113        |Legacy JavaScript Algorithms and Data Structures V7 | terminar este curso y expandirlo |
+|     3| ![Static Badge](https://img.shields.io/badge/SQL-black?logo=SQL)              | incompleto    || proyecto de almacenamiento incompleto|
+|     4| ![Static Badge](https://img.shields.io/badge/HTML5%20-%20black?logo=HTML5)    | incompleto    ||joby por divercion aun sin empesar|
 
 
 ```python
