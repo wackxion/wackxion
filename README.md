@@ -18,14 +18,11 @@
 nombre = braian 
 print ("hola Mundo" )
 
-def tipoDeDatos():
-    lista = [1, 2, 3]
-    tupla = (4, 5)
-    conjunto = {1, 2, 3}
-    dic = {"a": 1, "b": 2}
-    print("Estructuras de datos:")
-    print(f"  lista: {lista}")
-    print(f"  tupla: {tupla}")
-    print(f"  conjunto: {conjunto}")
-    print(f"  diccionario: {dic}")
+def gato():
+    print("
+                            ╱|、
+                          (˚ˎ 。7  
+                           |、˜〵          
+                          じしˍ,)ノ
+            ")
 ```
