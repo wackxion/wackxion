@@ -6,13 +6,26 @@
 [![Static Badge](https://img.shields.io/badge/wackxion-white?logo=Twitch)](https://www.twitch.tv/wackxion)
 ### En mi camino al aprendisaje de programacion.
 
-| Rank | Languages |completo o incompleto|
+| Rank | Languages | Proceso |
 |-----:|-----------|---------------------|
-|     1| ![Static Badge](https://img.shields.io/badge/JavaScript-grey?logo=JavaScript)| incompleto          |
-|     2| ![Static Badge](https://img.shields.io/badge/Python-green?logo=python)| completo            |
-|     3|![Static Badge](https://img.shields.io/badge/SQL-grey?logo=SQL)| incompleto          |
+|     1| ![Static Badge](https://img.shields.io/badge/Python-black?logo=python)        | COMPLETO      |
+|     2| ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=JavaScript)| incompleto    |
+|     3| ![Static Badge](https://img.shields.io/badge/SQL-black?logo=SQL)              | incompleto    |
+|     4| ![Static Badge](https://img.shields.io/badge/HTML5%20-%20black?logo=HTML5)    | incompleto    |
+
 
 ```python
 nombre = braian 
 print ("hola Mundo" )
+
+def tipoDeDatos():
+    lista = [1, 2, 3]
+    tupla = (4, 5)
+    conjunto = {1, 2, 3}
+    dic = {"a": 1, "b": 2}
+    print("Estructuras de datos:")
+    print(f"  lista: {lista}")
+    print(f"  tupla: {tupla}")
+    print(f"  conjunto: {conjunto}")
+    print(f"  diccionario: {dic}")
 ```
