@@ -6,13 +6,25 @@
 [![Static Badge](https://img.shields.io/badge/wackxion-white?logo=Twitch)](https://www.twitch.tv/wackxion)
 ### En mi camino al aprendizaje de programacion.
 
-| Rank | Languages | Pyectos |
+| Rank | Languages | Proyectos |
 |-----:|-----------|---------------------|
-|     1| ![Static Badge](https://img.shields.io/badge/Python-black?logo=python)        | 5        |
-|     2| ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=JavaScript)| 1     |
+|     1| ![Static Badge](https://img.shields.io/badge/Python-black?logo=python)        | 0/100  |
+|     2| ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=JavaScript)| 0 |
 |     3| ![Static Badge](https://img.shields.io/badge/SQL-black?logo=SQL)              | 3   |
 |     4| ![Static Badge](https://img.shields.io/badge/HTML5%20-%20black?logo=HTML5)    | 0|
 
+### Reto: 100 Programas en Python
+*Afilando la lógica y el almacenamiento de datos paso a paso.*
+
+**Progreso del reto:** 
+`[          ] 0/100`
+
+- [ ] **Nivel 1:** Fundamentos y Lógica Pura (0/30)
+- [ ] **Nivel 2:** Almacenamiento y SQL con MariaDB (0/30)
+- [ ] **Nivel 3:** Programación de Objetos (POO) y Videojuegos (0/30)
+- [ ] **Nivel 4:** Proyectos Integradores / Joby (0/10)
+
+Publicare un repositorio con proyectos - (asesoria con notebookLM, copiloto visual estudio code)
 
 ```python
 nombre = braian 
