@@ -8,7 +8,7 @@
 
 | Rank | Languages | Proyectos |
 |-----:|-----------|---------------------|
-|     1| ![Static Badge](https://img.shields.io/badge/Python-black?logo=python)        | 4/100  |
+|     1| ![Static Badge](https://img.shields.io/badge/Python-black?logo=python)        | 6/100  |
 |     2| ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=JavaScript)| 0 |
 |     3| ![Static Badge](https://img.shields.io/badge/SQL-black?logo=SQL)              | 3   |
 |     4| ![Static Badge](https://img.shields.io/badge/HTML5%20-%20black?logo=HTML5)    | 0|
@@ -20,7 +20,7 @@
 `[          ] 0/100`
 
 - [ ] **Nivel 1:** Fundamentos y Lógica Pura (4/4)
-- [ ] **Nivel 2:** Almacenamiento y SQL con MariaDB (0/56)
+- [ ] **Nivel 2:** Almacenamiento y SQL con MariaDB (2/56)
 - [ ] **Nivel 3:** Programación de Objetos (POO) y Videojuegos (0/30)
 - [ ] **Nivel 4:** Proyectos Integradores / Joby (0/10)
 
