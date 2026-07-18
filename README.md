@@ -17,7 +17,7 @@
 *Afilando la lógica y el almacenamiento de datos paso a paso.*
 
 **Progreso del reto:** 
-`[          ] 0/100`
+`[          ] 11/100`
 
 - [ ] **Nivel 1:** Fundamentos y Lógica Pura (4/4)
 - [ ] **Nivel 2:** Almacenamiento y SQL con MariaDB (5/56)
