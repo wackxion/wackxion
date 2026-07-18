@@ -9,9 +9,9 @@
 | Rank | Languages | Proyectos |
 |-----:|-----------|---------------------|
 |     1| ![Static Badge](https://img.shields.io/badge/Python-black?logo=python)        | 7/100  |
-|     2| ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=JavaScript)| 1 |
-|     3| ![Static Badge](https://img.shields.io/badge/SQL-black?logo=SQL)              | 1   |
-|     4| ![Static Badge](https://img.shields.io/badge/HTML5%20-%20black?logo=HTML5)    | 1|
+|     2| ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=JavaScript)| 2 |
+|     3| ![Static Badge](https://img.shields.io/badge/SQL-black?logo=SQL)              | 2   |
+|     4| ![Static Badge](https://img.shields.io/badge/HTML5%20-%20black?logo=HTML5)    | 2|
 
 ### Reto: 100 Programas en Python
 *Afilando la lógica y el almacenamiento de datos paso a paso.*
@@ -20,8 +20,8 @@
 `[          ] 0/100`
 
 - [ ] **Nivel 1:** Fundamentos y Lógica Pura (4/4)
-- [ ] **Nivel 2:** Almacenamiento y SQL con MariaDB (4/56)
-- [ ] **Nivel 3:** Programación de Objetos (POO) y Videojuegos (1/30)
+- [ ] **Nivel 2:** Almacenamiento y SQL con MariaDB (5/56)
+- [ ] **Nivel 3:** Programación de Objetos (POO) y Videojuegos (2/30)
 - [ ] **Nivel 4:** Proyectos Integradores / Joby (0/10)
 
 Publicare un repositorio con proyectos - (asesoria con notebookLM, copiloto visual estudio code)
