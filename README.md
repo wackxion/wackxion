@@ -9,8 +9,8 @@
 | Rank | Languages | Proyectos |
 |-----:|-----------|---------------------|
 |     1| ![Static Badge](https://img.shields.io/badge/Python-black?logo=python)        | 7/100  |
-|     2| ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=JavaScript)| 2 |
-|     3| ![Static Badge](https://img.shields.io/badge/SQL-black?logo=SQL)              | 2   |
+|     2| ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=JavaScript)| 3 |
+|     3| ![Static Badge](https://img.shields.io/badge/SQL-black?logo=SQL)              | 3   |
 |     4| ![Static Badge](https://img.shields.io/badge/HTML5%20-%20black?logo=HTML5)    | 2|
 
 ### Reto: 100 Programas en Python
